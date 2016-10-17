@@ -16,4 +16,5 @@ describe('Routes', function () {
 			expect(state.url).toEqual('/settings');
 		});
 	});
+	
 });
